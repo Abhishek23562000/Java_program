@@ -3,7 +3,6 @@ package Basic_question;
 public class Armstrong {
     public static void main(String[] args) {
 
-        // armstrong means the length of the given integer .and every digit of number power is equal to the number
 
         int n = 153;
         int temp = n;
